@@ -26,7 +26,6 @@ APPLICATIONS = \
   BrotliCompress \
   VfrCompile \
   EfiRom \
-  GenFfs \
   GenFv \
   GenFw \
   GenSec \

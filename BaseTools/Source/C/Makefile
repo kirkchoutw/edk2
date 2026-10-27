@@ -16,7 +16,6 @@ APPLICATIONS = \
   BrotliCompress \
   EfiRom \
   GenCrc32 \
-  GenFfs \
   GenFv \
   GenFw \
   GenSec \
